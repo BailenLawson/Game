@@ -1,2 +1,5 @@
 # Ignore all lock files created when opening files
 .~lock.*
+
+# Ignore draw.io backup files
+*.drawio.bkp
